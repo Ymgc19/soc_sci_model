@@ -18,3 +18,5 @@ st.set_page_config(
 st.title("『社会科学のためのモデル入門』を読む会")
 st.markdown("議事録をここに載せていくかもしれない")
 
+image = Image.open("photos/IMG_4841.png")
+st.image(image)
