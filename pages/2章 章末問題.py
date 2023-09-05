@@ -15,6 +15,6 @@ st.set_page_config(
     page_icon=":paintbrush:"
 )
 
-st.title("2章の章末問題に関して")
+st.title("二章の章末問題に関して")
 st.markdown("##### 1問目")
 st.markdown("")
